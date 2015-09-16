@@ -1,23 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:25.394913
+#+DATE: 2015-08-30 20:36:25.897740
 #+TITLE: 佛說妙色陀羅尼經
 #+PROPERTY: CBETA_ID T21n1386
 #+PROPERTY: ID KR6j0618
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1386
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6j0618_T_000-0905c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0618_T_001-0905c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1386¶
-
- 佛說妙色陀羅尼經¶
+No. 1386¶
+佛說妙色陀羅尼經¶
 ¶
-西天譯經三藏朝散大夫試光祿卿¶
-明教大師臣法賢奉　詔譯¶
+三藏法師¶
+法賢奉　詔譯¶
 
 爾時佛告阿難言。有陀羅尼名曰妙色。乃是¶
 三世諸佛同共宣說能與眾生作大利益。若¶
